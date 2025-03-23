@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChathurK
-- 👀 Interested in Coding, AI, ML
+- 👀 Interested in SE, DevOps, Cloud
 - 🌱 Undergraduate of B.Sc. Honours in Information Technology | University of Kelaniya - Sri Lanka
 - 💞️ Looking to collaborate on group projects
 - 📫 Reach me - mail to kumaras-im21001@stu.kln.ac.lk
